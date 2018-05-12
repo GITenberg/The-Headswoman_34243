@@ -1,0 +1,34 @@
+_repo: The-Headswoman_34243
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Foster, Marcia Lane
+    gutenberg_agent_id: '36901'
+    url: http://www.gutenberg.org/2009/agents/36901
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grahame, Kenneth
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '153'
+    url: http://www.gutenberg.org/2009/agents/153
+    wikipedia: http://en.wikipedia.org/wiki/Kenneth_Grahame
+description: ''
+gutenberg_issued: '2010-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex role -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Satire'
+- !lcsh 'Executions and executioners -- Fiction'
+title: The Headswoman
+url: http://www.gutenberg.org/ebooks/34243
